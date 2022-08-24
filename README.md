@@ -1,6 +1,6 @@
-# Fruitopia
+# Fruitopia Website
 
-Fruitopia Wesbite
+Fruitopia Website
 
 ## Getting Started
 
